@@ -1,0 +1,13 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 400px;
+}@font-face {
+  font-family: 'FCIconicBold';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/FCIconicBold.otf);
+}@font-face {
+  font-family: 'FCIconicRegular';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/FCIconicRegular.otf);
+}
